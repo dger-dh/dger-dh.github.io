@@ -1,0 +1,25 @@
+div {
+	width: 512px;
+	margin-left: 30px;
+	background-color: rgba(173, 216, 230, 1); 
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 130px;	
+}
+td {
+  text-align: left;
+  padding: 8px;
+}
+a:link, a:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
